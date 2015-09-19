@@ -2,3 +2,9 @@ git add filename
 git commit -m 'first commit'	// just name the commit 
 git push origin master
 
+
+// or to push all files in folder
+
+git add .
+git commit -m 'second commit'
+git push origin master
